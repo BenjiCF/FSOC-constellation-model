@@ -47,7 +47,7 @@ The model provides:
 
 ## Note
 
-“This project extends the laser-link model developed by Wieger Helsdingen (TU Delft). 
+“This project extends the laser-link model developed by Wieger Helsdingen. 
 The original model did not include an open-source license. 
 Use of the original code is subject to the author’s permission.”
 
