@@ -1,0 +1,14 @@
+simulation time: 5400
+inclination: 88
+sats total: 105
+planes: 7
+phasing factor: 2
+altitude: 780000.0
+terminals: 4
+transferred files: 0.8058923499783096
+path efficiency: 0.8957960309549565
+user ratio: 1.0
+path latency: 0.8957960309549565
+slew rate: 0.9994529191140717
+reliability: 1.0
+compound: 0.9000587633311791
